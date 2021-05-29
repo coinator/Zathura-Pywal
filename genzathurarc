@@ -2,7 +2,7 @@
 
 # Generates zathura configuration file
 
-. $HOME/.cache/wal/colors.sh
+. $HOME/.config/zathura/zathura_colors
 
 cat <<CONF
 set recolor "true"
